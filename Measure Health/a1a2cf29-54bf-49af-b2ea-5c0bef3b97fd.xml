@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ATTENTION - THIS IS AN AUTOMATICALLY GENERATED FILE -->
+<!-- Manual changes can cause severe problems and system instability -->
+<!-- Apply manual changes only if you have received explicit instructions from Dynatrace Support -->
+<dynatrace version="6.5.0.1222">
+  <webuidashboard memento.version="6.5.0.1222">
+    <metadata owner="admin" name="Dynatrace Measure Health" id="a1a2cf29-54bf-49af-b2ea-5c0bef3b97fd" modificationdate="1469026211325" sharemode="NOT_SHARED" version="24" revision="0c639338-cc45-4e94-9785-05253f98a02e" />
+  </webuidashboard>
+</dynatrace>

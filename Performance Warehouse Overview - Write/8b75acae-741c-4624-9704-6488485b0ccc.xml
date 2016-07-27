@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ATTENTION - THIS IS AN AUTOMATICALLY GENERATED FILE -->
+<!-- Manual changes can cause severe problems and system instability -->
+<!-- Apply manual changes only if you have received explicit instructions from Dynatrace Support -->
+<dynatrace version="6.5.0.1222">
+  <webuidashboard memento.version="6.5.0.1222">
+    <metadata owner="admin" name="Dynatrace Performance Warehouse Overview - Write" id="8b75acae-741c-4624-9704-6488485b0ccc" modificationdate="1469026211317" sharemode="NOT_SHARED" version="24" revision="f27927fe-6f86-46e6-bc6e-464737f32c1b" />
+  </webuidashboard>
+</dynatrace>
